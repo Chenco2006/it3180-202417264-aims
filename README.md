@@ -31,3 +31,5 @@ it3180-202417264-aims/
 ## Mục đích
 
 Thực hành các quy trình quản lý cấu hình phần mềm với Git và GitHub, bao gồm quản lý phiên bản, phân nhánh, Pull Request và Release.
+
+Lab 01 - Git practice 
